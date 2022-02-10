@@ -7,7 +7,7 @@ int main()
     printf("Enter value of y: ");
     scanf("%d",&y);
     printf("X = %d and Y = %d \n\n",x,y);
-	x = x + y; 
+    x = x + y; 
     y = x - y; 
     x = x - y; 
     printf("After Swapping the numbers x = %d, y = %d",x,y);
