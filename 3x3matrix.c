@@ -11,7 +11,7 @@ int main()
 		{
 			printf("Element (%d,%d):",i+1,j+1);
 			scanf("%d",&arr[i][j]);
-			//printf("\n");
+			printf("\n");
 		}
 	}
 	printf("The elements are: \n");
